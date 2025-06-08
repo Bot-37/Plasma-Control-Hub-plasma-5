@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Plasma Control Hub
+Comment=An all-in-one control widget for Plasma
+Type=Service
+Icon=configure
+X-KDE-ServiceTypes=Plasma/Applet
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+
+X-KDE-PluginInfo-Name=Plasma.Control.Hub
+X-KDE-PluginInfo-Author=Bot-37
+X-KDE-PluginInfo-License=CC-BY-4.0
+X-KDE-PluginInfo-Version=0.7
+X-KDE-PluginInfo-Website=https://github.com/Bot-37/Plasma-Control-Hub-plasma-5
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-Category=Utilities

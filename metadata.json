@@ -1,0 +1,23 @@
+{
+    "KPlugin": {
+        "Name": "Plasma Control Hub",
+        "Id": "Plasma.Control.Hub",
+        "Description": "An all-in-one control widget for Plasma",
+        "Category": "Utilities",
+        "Icon": "configure",
+        "EnabledByDefault": true,
+        "License": "GPL-3.0+",
+        "Authors": [
+            {
+                "Name": "Bot-37"
+            }
+        ],
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "0.7",
+        "Website": "https://github.com/Bot-37/Plasma-Control-Hub-plasma-5"
+    },
+    "X-Plasma-API-Minimum-Version": "5.0",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
